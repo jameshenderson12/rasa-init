@@ -1,2 +1,2 @@
 # rasa-init
- Initial configuration for Rasa X deployment
+ Initial basic configuration for Rasa X deployment.
